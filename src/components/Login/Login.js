@@ -1,6 +1,6 @@
 import React, { useContext, useState } from 'react';
 import firebase from "firebase/app";
-import firebaseConfig from "../../../configs/firebase.config";
+import firebaseConfig from "./firebase.config";
 import "firebase/auth";
 import { UserContext } from '../../App';
 import { useHistory, useLocation } from 'react-router';
