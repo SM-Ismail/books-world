@@ -1,0 +1,16 @@
+.inputs{
+    height: 30px;
+    width: 300px;
+    border: 1px solid gold;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+#submit{
+    height: 30px;
+    width: 308px;
+    border-radius: 5px;
+    margin-top: 10px;
+    border: 1px solid gold;
+    color: brown;
+    background-color: cornsilk;
+}
